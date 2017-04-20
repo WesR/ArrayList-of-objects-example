@@ -1,7 +1,5 @@
 # ArrayList-of-objects-example
-This is an example of how to nest objects in an array of objects for my friend J
-Sorry its messy, the path to the java files is [LINK](https://github.com/WesR/ArrayList-of-objects-example/tree/master/How%20to%20use%20an%20arraylist%20of%20objects/src/com/wesring/example) 
-I will take it down and put it back up in a few days, after J is done looking at it.
+This is an example of how to nest objects in an array of objects for my friend J.
 
 # License
 Copyright 2017 Wesley Ring
